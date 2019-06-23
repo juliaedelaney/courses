@@ -1,7 +1,7 @@
 package hw01.sol;
 
 /**
- * 
+ * This is Matt adding something
  * class representing a course
  *
  */
